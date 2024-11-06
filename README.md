@@ -1,3 +1,3 @@
 # teste-curso-github
 
-@senhor não consegui clonar no vscode
+senhor não consegui clonar no vscode
